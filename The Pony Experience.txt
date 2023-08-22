@@ -1,0 +1,3 @@
+This is the source code for the pony experience
+
+You can find the exe in "export/windows/bin"

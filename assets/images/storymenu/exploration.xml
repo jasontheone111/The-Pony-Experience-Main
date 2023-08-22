@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="exploration.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Activate0000" x="9" y="9" width="736" height="992" frameX="-21" frameY="0" frameWidth="757" frameHeight="999"/>
+	<SubTexture name="Activate0001" x="754" y="9" width="744" height="995" frameX="-13" frameY="0" frameWidth="757" frameHeight="999"/>
+	<SubTexture name="Activate0002" x="1507" y="9" width="751" height="997" frameX="-6" frameY="0" frameWidth="757" frameHeight="999"/>
+	<SubTexture name="Activate0003" x="2267" y="9" width="755" height="998" frameX="-2" frameY="0" frameWidth="757" frameHeight="999"/>
+	<SubTexture name="Activate0004" x="3031" y="9" width="757" height="999"/>
+
+	<SubTexture name="Deactivate0004" x="9" y="9" width="736" height="992" frameX="-21" frameY="0" frameWidth="757" frameHeight="999"/>
+	<SubTexture name="Deactivate0003" x="754" y="9" width="744" height="995" frameX="-13" frameY="0" frameWidth="757" frameHeight="999"/>
+	<SubTexture name="Deactivate0002" x="1507" y="9" width="751" height="997" frameX="-6" frameY="0" frameWidth="757" frameHeight="999"/>
+	<SubTexture name="Deactivate0001" x="2267" y="9" width="755" height="998" frameX="-2" frameY="0" frameWidth="757" frameHeight="999"/>
+	<SubTexture name="Deactivate0000" x="3031" y="9" width="757" height="999"/>
+</TextureAtlas>

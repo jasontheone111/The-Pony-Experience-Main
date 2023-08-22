@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="storymode.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Story Panel On0000" x="9" y="9" width="738" height="1001" frameX="-21" frameY="0" frameWidth="759" frameHeight="1007"/>
+	<SubTexture name="Story Panel On0001" x="756" y="9" width="746" height="1003" frameX="-13" frameY="0" frameWidth="759" frameHeight="1007"/>
+	<SubTexture name="Story Panel On0002" x="1511" y="9" width="753" height="1006" frameX="-6" frameY="0" frameWidth="759" frameHeight="1007"/>
+	<SubTexture name="Story Panel On0003" x="2273" y="9" width="757" height="1007" frameX="-2" frameY="0" frameWidth="759" frameHeight="1007"/>
+	<SubTexture name="Story Panel On0004" x="3039" y="9" width="759" height="1007"/>
+</TextureAtlas>
