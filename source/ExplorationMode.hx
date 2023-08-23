@@ -141,6 +141,14 @@ class ExplorationMode extends FlxState
 	override public function update(elapsed:Float)
 	{
 		//ServerCode.updateServer(elapsed);
+		var theChat = new Http('https://raw.githubusercontent.com/jasontheone111/The-Pony-Experience-Main/main/chatLogs.txt');
+		var theChatText:String;
+		theChat.onData = function (data:String) {
+			theChatText = data;
+		  }
+		theChat.request();
+		trace(theChatText);
+		/*theChat.request(true);*/
 		for (name in 0...names.length)
 			{
 				trace(names[name]);
